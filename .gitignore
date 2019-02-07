@@ -13,3 +13,4 @@ Pipefile.lock
 Pipfile
 *.lock
 .gitattributes
+.env
