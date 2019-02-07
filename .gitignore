@@ -1,0 +1,15 @@
+
+*.xml
+myproject/boards/__pycache__/forms.cpython-37.pyc
+*.pyc
+*.DS_Store
+
+
+
+# SQLite database files
+
+*.sqlite3
+Pipefile.lock
+Pipfile
+*.lock
+.gitattributes
